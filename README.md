@@ -1,6 +1,6 @@
 # Tela de cadastro Pokemon
 
-![preview](.//github/pokemon.png)
+![preview](./Cadastro_Pokemon/github/pokemon.png)
 
 [Clique aqui para acessar](link)
 
