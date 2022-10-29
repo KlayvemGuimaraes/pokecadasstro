@@ -2,7 +2,7 @@
 
 ![preview](./Cadastro_Pokemon/github/pokemon.png)
 
-[Clique aqui para acessar](link)
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/Cadastro_Pokemon/Cadastro_Pokemon/poke.html)
 
 > Tela de cadastro de um site Pokemon!
 
