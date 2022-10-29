@@ -10,7 +10,6 @@
 
 - HTML
 - CSS
-- GIT/GITHUB
 
 ## 📚 Contato
 
